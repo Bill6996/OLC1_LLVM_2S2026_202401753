@@ -1,0 +1,5 @@
+build/
+olcc
+salida.ll
+*.o
+*.s
